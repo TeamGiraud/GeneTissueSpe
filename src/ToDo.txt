@@ -1,0 +1,7 @@
+For version 1.6.1
+
+Change name to TRAFinder
+Change TSA appelation with TEA (Tissue enriched antigens)
+Do 2 Separate Tabs for SPM and TAU analysis
+Change Tissue plots : remove chose method buttons, remplace with absolute (n) or relative (%) TRA numbers
+Try mouse database
